@@ -1,0 +1,17 @@
+.navbar{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.btn-2 {
+  background-color: rgb(47, 13, 110);
+  border: 1px solid rgb(47, 13, 110);
+  color: white;
+}
+.btn-1 {
+  border: 1px solid rgb(47, 13, 110);
+}
+/* ul.mb-2.mb-lg-0.me-auto.navbar-nav {
+  margin-left: -118px;
+} */
